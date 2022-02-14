@@ -1,7 +1,7 @@
 # rust-practices
 practicing in rust
 
-<p align="rigth">
+<h1 align="rigth">
 
 [![Test](https://github.com/lunes-platform/lunesrs/actions/workflows/python-app.yml/badge.svg)](https://github.com/lunes-platform/lunesrs/actions/workflows/python-app.yml)
 [![License](https://img.shields.io/github/license/lunes-platform/lunesrs?color=blueviolet)](LICENSE)
@@ -17,4 +17,4 @@ practicing in rust
 ![PullRequest](https://img.shields.io/github/issues-pr/lunes-platform/lunesrs?color=blueviolet)
 ![PullRequestClosed](https://img.shields.io/github/issues-pr-closed/lunes-platform/lunesrs?color=blueviolet)
 
-</p> 
+</h1> 

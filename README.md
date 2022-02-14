@@ -1,6 +1,6 @@
 
 
-<div align="center">.
+<div align="center">
 
 # rust-practices
 practicing in rust

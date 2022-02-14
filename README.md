@@ -1,7 +1,9 @@
-# rust-practices
-practicing in rust
+
 
 <div align="center">.
+
+# rust-practices
+practicing in rust
 
 [![Test](https://github.com/lunes-platform/lunesrs/actions/workflows/python-app.yml/badge.svg)](https://github.com/lunes-platform/lunesrs/actions/workflows/python-app.yml)
 [![License](https://img.shields.io/github/license/lunes-platform/lunesrs?color=blueviolet)](LICENSE)
